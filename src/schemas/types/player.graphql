@@ -1,0 +1,10 @@
+type Player {
+    id: Int,
+    name: String,
+    countryOfBirth: String,
+    dateOfBirth: String,
+    nationality: String,
+    position: String,
+    role: String,
+    shirtNumber: Int
+}

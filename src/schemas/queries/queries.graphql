@@ -1,0 +1,11 @@
+type Query {
+    getTeams(competition: String): [Team]
+}
+
+type Query {
+    getTeam(teamId: String): Team
+}
+
+type Query {
+    getStandings(competition: String): [Standing]
+}

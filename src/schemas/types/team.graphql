@@ -1,0 +1,16 @@
+type Team {
+    id: Int,
+    name: String,
+    shortName: String,
+    clubColors: String
+    crestUrl: String,
+    email: String,
+    founded: Int,
+    phone: String,
+    tla: String,
+    address: String,
+    venue: String,
+    website: String,
+    lastUpdated: String,
+    squad: [Player]
+}

@@ -1,0 +1,11 @@
+type Standing {
+    draw: Int,
+    goalDifference: Int,
+    goalsAgainst: Int,
+    goalsFor: Int,
+    lost: Int,
+    playedGames: Int,
+    points: Int,
+    position: Int,
+    team: Team
+}
