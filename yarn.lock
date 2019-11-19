@@ -118,7 +118,7 @@
   optionalDependencies:
     type-graphql "^0.17.3"
 
-"@nestjs/platform-express@^6.0.0":
+"@nestjs/platform-express@^6.10.1":
   version "6.10.1"
   resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-6.10.1.tgz#12cfa39e0651048ac7f526c2f1b0f73171af8acb"
   integrity sha512-Tm5jRoPKhWj2VloM9fGkgR9S/yLQnDDfgPE9dvJX89hVQHS8RA7ub9kKfXF1iJjV+nAjk4XpPj8yGoUpYrC31g==
@@ -2583,7 +2583,7 @@ graphql-tools@4.0.5:
     iterall "^1.1.3"
     uuid "^3.1.0"
 
-graphql-tools@^4.0.0, graphql-tools@^4.0.6:
+graphql-tools@^4.0.0:
   version "4.0.6"
   resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-4.0.6.tgz#0e729e73db05ade3df10a2f92511be544972a844"
   integrity sha512-jHLQw8x3xmSNRBCsaZqelXXsFfUSUSktSCUP8KYHiX1Z9qEuwcMpAf+FkdBzk8aTAFqOlPdNZ3OI4DKKqGKUqg==
