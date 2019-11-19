@@ -3,6 +3,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![made-with-javascript-doc](https://img.shields.io/badge/Made%20with-Typescript-1f425f.svg)](https://www.sphinx-doc.org/)
 
+You can try using the following platform:
+- https://football-graphql-api.herokuapp.com/
+
+
 Features available:
 - Get Teams
 ```graphql
@@ -57,7 +61,7 @@ $ npm run start
 $ npm run start:dev
 
 # production mode
-$ npm run start:prod
+$ npm run prod
 ```
 
 ## Test
